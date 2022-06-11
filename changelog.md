@@ -1,209 +1,209 @@
 # v4.0.1 (23 Feb 2022)
-ADDED audio player for mp3 files.
-ADDED yandex API for maps.
-ADDED yandex payment method.
-ADDED iyzipay payment method.
-ADDED securionpay payment method.
-ADDED authorize.Net payment method.
-ADDED ok.ru social login.
-ADDED new APIs in developers page: get_pages, get_groups, get_products, get_followers, get_following, get_friendsUPDATED design in few sections.
-FIXED price not showing in products.
-FIXED links not working on profile page.
-FIXED ajax load in few pages.
-FIXED broken images when importing a link.
-FIXED add as familly system.
-FIXED XSS vulnerability.
-FIXED 10+ more minor bugs.
-FIXED bugs in API.
+- ADDED audio player for mp3 files.
+- ADDED yandex API for maps.
+- ADDED yandex payment method.
+- ADDED iyzipay payment method.
+- ADDED securionpay payment method.
+- ADDED authorize.Net payment method.
+- ADDED ok.ru social login.
+- ADDED new APIs in developers page: get_pages, get_groups, get_products, get_followers, get_following, get_friendsUPDATED design in few sections.
+- FIXED price not showing in products.
+- FIXED links not working on profile page.
+- FIXED ajax load in few pages.
+- FIXED broken images when importing a link.
+- FIXED add as familly system.
+- FIXED XSS vulnerability.
+- FIXED 10+ more minor bugs.
+- FIXED bugs in API.
 
 # v4.0 (07 Feb 2022) [Ultimate Update]
-ADDED website mode, switch your website instantly to Linkedin mode. (Instagram, Twitter, AskFM, Patreon are coming soon).
-ADDED website mode, switch your website instantly to Linkedin mode. (Instagram, Twitter, AskFM, Patreon are coming soon).
-ADDED marketplace system, users can now buy and sell products
-ADDED moderator rules manager, now you can choose what a moderator can do.
-ADDED more ads placements (jobs, forums, movies, offers & funding) & entire site option.
-ADDED multiple levels affiliate system.
-ADDED custom ban message for every user.
-ADDED the ability to translate terms pages.
-ADDED CoinBase payment method.
-ADDED new search system for Linkedin mode.
-ADDED more APIs.
-ADDED ReCaptcha to create article page.
-ADDED Wasabi Storage.
-ADDED new welcome page.
-ADDED remember me on login page.
-ADDED mutli languages support for terms, privacy and about pages.
-UPDATED bulksms API.
-UPDATED CoinPayments API.
-UPDATED Infobip API.
-UPDATED marketplace, jobs & movies pages design (default theme).
-UPDATED desgin in a few other pages (default theme).
-UPDATED Twilio SDK.
-UPDATED left sidebar icons. (default theme)
-UPDATED documentation & FAQs: https://docs.wowonder.com/ .
-CLEANED 10,000+ lines of outdated code.
-ORGINZED PHP code format (HTML coming in next update).
-FIXED images with _small extensions is not getting deleted on remote storage.
-FIXED watermark isn't working on images posts.
-FIXED family memebers texts.
-FIXED auto username, pages likes or groups joins isn't working when you register using the app.
-FIXED login with instagram isn't working.
-FIXED email notifications are not working on follow, view profile or comments.
-FIXED Audio/video calls are not working from website to apps using agora.
-FIXED "common things" page php fatal error.
-FIXED 2 XSS exploits. [Important!]
-FIXED blank page when adding / in url.
-FIXED site-map doesn't generate more than 50K links.
-FIXED read more button on mobile.
-FIXED 30+ more minor bugs.
-FIXED bugs in API.
+- ADDED website mode, switch your website instantly to Linkedin mode. (Instagram, Twitter, AskFM, Patreon are coming soon).
+- ADDED website mode, switch your website instantly to Linkedin mode. (Instagram, Twitter, AskFM, Patreon are coming soon).
+- ADDED marketplace system, users can now buy and sell products
+- ADDED moderator rules manager, now you can choose what a moderator can do.
+- ADDED more ads placements (jobs, forums, movies, offers & funding) & entire site option.
+- ADDED multiple levels affiliate system.
+- ADDED custom ban message for every user.
+- ADDED the ability to translate terms pages.
+- ADDED CoinBase payment method.
+- ADDED new search system for Linkedin mode.
+- ADDED more APIs.
+- ADDED ReCaptcha to create article page.
+- ADDED Wasabi Storage.
+- ADDED new welcome page.
+- ADDED remember me on login page.
+- ADDED mutli languages support for terms, privacy and about pages.
+- UPDATED bulksms API.
+- UPDATED CoinPayments API.
+- UPDATED Infobip API.
+- UPDATED marketplace, jobs & movies pages design (default theme).
+- UPDATED desgin in a few other pages (default theme).
+- UPDATED Twilio SDK.
+- UPDATED left sidebar icons. (default theme)
+- UPDATED documentation & FAQs: https://docs.wowonder.com/ .
+- CLEANED 10,000+ lines of outdated code.
+- ORGINZED PHP code format (HTML coming in next update).
+- FIXED images with _small extensions is not getting deleted on remote storage.
+- FIXED watermark isn't working on images posts.
+- FIXED family memebers texts.
+- FIXED auto username, pages likes or groups joins isn't working when you register using the app.
+- FIXED login with instagram isn't working.
+- FIXED email notifications are not working on follow, view profile or comments.
+- FIXED Audio/video calls are not working from website to apps using agora.
+- FIXED "common things" page php fatal error.
+- FIXED 2 XSS exploits. [Important!]
+- FIXED blank page when adding / in url.
+- FIXED site-map doesn't generate more than 50K links.
+- FIXED read more button on mobile.
+- FIXED 30+ more minor bugs.
+- FIXED bugs in API.
 
 # v3.2.2 (09 Augest 2021)
-ADDED Palestine to country list.
-REMOVED dublicated nginx rules in nginx.conf, update required for nginx users.
-REPLACED Yahoo weather with new provider https://openweathermap.org
-FIXED live video not working on firefox.
-FIXED blog point issue, user will get points now after approving.
-FIXED nearby shops counter.
-FIXED line break issue in nodejs chat system.
-FIXED refund page wasn't apearing.
-FIXED issues in desgin.
-FIXED video post on MySQL 8 and PHP 8.
-FIXED more minor bugs.
-FIXED bugs in API.
+- ADDED Palestine to country list.
+- REMOVED dublicated nginx rules in nginx.conf, update required for nginx users.
+- REPLACED Yahoo weather with new provider https://openweathermap.org
+- FIXED live video not working on firefox.
+- FIXED blog point issue, user will get points now after approving.
+- FIXED nearby shops counter.
+- FIXED line break issue in nodejs chat system.
+- FIXED refund page wasn't apearing.
+- FIXED issues in desgin.
+- FIXED video post on MySQL 8 and PHP 8.
+- FIXED more minor bugs.
+- FIXED bugs in API.
 
 # v3.2.1 (28 June 2021)
-FIXED seen issue on nodejs.
-FIXED FTP support on nodejs.
-FIXED "View X Posts" on newsfeed (NodeJS).
-FIXED 2 security issues (important).
-FIXED double points when posting multi images.
-FIXED 500 Error when accessing a page without being logged in.
-FIXED URL fetcher, it wasn't fetching URLs from WoWonder blogs.
-FIXED bugs in API.
+- FIXED seen issue on nodejs.
+- FIXED FTP support on nodejs.
+- FIXED "View X Posts" on newsfeed (NodeJS).
+- FIXED 2 security issues (important).
+- FIXED double points when posting multi images.
+- FIXED 500 Error when accessing a page without being logged in.
+- FIXED URL fetcher, it wasn't fetching URLs from WoWonder blogs.
+- FIXED bugs in API.
 
 # v3.2 (8 June 2021)
-ADDED expire time for reset password links, 12 hours.
-ADDED auto username generator, for new user registration users are not required to write their username. (Enable / Disable)
-ADDED new APIs, more than 40+.
-ADDED reactions for messages, (ajax / nodejs).
-ADDED reply system for messages, (ajax / nodejs).
-ADDED reactions system for stories.
-ADDED reply system for stories.
-ADDED gifs + stickers to comment system.
-ADDED gifs + stickers to reply system.
-ADDED video chat by Agora.
-ADDED terms of use checkbox to contact us page.
-ADDED the ability to delete poll answers while creating one.
-ADDED login with Mailru, Discord, WeChat and QQ.
-UPDATED twilio video chat system.
-UPDATED message seen systemn (NodeJS).
-FIXED 80+ reported bugs and improvments.
-FIXED bugs in API.
+- ADDED expire time for reset password links, 12 hours.
+- ADDED auto username generator, for new user registration users are not required to write their username. (Enable / Disable)
+- ADDED new APIs, more than 40+.
+- ADDED reactions for messages, (ajax / nodejs).
+- ADDED reply system for messages, (ajax / nodejs).
+- ADDED reactions system for stories.
+- ADDED reply system for stories.
+- ADDED gifs + stickers to comment system.
+- ADDED gifs + stickers to reply system.
+- ADDED video chat by Agora.
+- ADDED terms of use checkbox to contact us page.
+- ADDED the ability to delete poll answers while creating one.
+- ADDED login with Mailru, Discord, WeChat and QQ.
+- UPDATED twilio video chat system.
+- UPDATED message seen systemn (NodeJS).
+- FIXED 80+ reported bugs and improvments.
+- FIXED bugs in API.
 
 # v3.1.3 (12 April 2021)
-ADDED real-time notification system.
-IMPROVED server load & site speed.
-REMOVED All PHP ajax intervals, requests, and loops from clinet end (if nodejs enabled) and replaced to realtime web socket.
-FIXED 3+ reported bugs.
-FIXED bugs in API.
+- ADDED real-time notification system.
+- IMPROVED server load & site speed.
+- REMOVED All PHP ajax intervals, requests, and loops from clinet end (if nodejs enabled) and replaced to realtime web socket.
+- FIXED 3+ reported bugs.
+- FIXED bugs in API.
 
 # v3.1.2 (28 March 2021)
-ADDED support for PHP 8.0+ and MySQL 8.0
-UPDATED nodejs chat system, now users can see typing action on messages user list, real time avatar update, name, and status.
-UPDATED S3 / Spaces libraries.
-IMPROVED speed on PHP 8.0
-FIXED 20+ reported bugs.
-FIXED bugs in API.
+- ADDED support for PHP 8.0+ and MySQL 8.0
+- UPDATED nodejs chat system, now users can see typing action on messages user list, real time avatar update, name, and status.
+- UPDATED S3 / Spaces libraries.
+- IMPROVED speed on PHP 8.0
+- FIXED 20+ reported bugs.
+- FIXED bugs in API.
 
 # v3.1.1 (05 March 2021)
-FIXED 10+ reported bugs.
-FIXED bugs in API.
+- FIXED 10+ reported bugs.
+- FIXED bugs in API.
 
 # v3.1 (04 March 2021)
-ADDED new messaging system powered by NodeJS and websockets, now chat are faster, real time, and smoother.
-ADDED new timestamp system, e.g (1 mintue ago -> 1 m, 2 hours ago -> 2 hrs, 1 month ago -> 4 w, 1 year ago -> 1 y)
-IMPROVED security. [Important]
-FIXED 60+ reported bugs.
-FIXED bugs in API.
+- ADDED new messaging system powered by NodeJS and websockets, now chat are faster, real time, and smoother.
+- ADDED new timestamp system, e.g (1 mintue ago -> 1 m, 2 hours ago -> 2 hrs, 1 month ago -> 4 w, 1 year ago -> 1 y)
+- IMPROVED security. [Important]
+- FIXED 60+ reported bugs.
+- FIXED bugs in API.
 
 # v3.0.3 (08 July 2020)
-ADDED ability to choose camera on live streaming.
-ADDED thumbnail for live streaming videos.
-ADDED female avatar for female users.
-ADDED Few more APIs. (payment methods)
-FIXED 20+ reported bugs.
-FIXED bugs in API.
+- ADDED ability to choose camera on live streaming.
+- ADDED thumbnail for live streaming videos.
+- ADDED female avatar for female users.
+- ADDED Few more APIs. (payment methods)
+- FIXED 20+ reported bugs.
+- FIXED bugs in API.
 
 # v3.0.2 (26 May 2020)
-ADDED Agora Live Streaming.
-ADDED Few more APIs.
-FIXED 40+ reported bugs.
-FIXED bugs in API.
-IMPROVED Load speed.
+- ADDED Agora Live Streaming.
+- ADDED Few more APIs.
+- FIXED 40+ reported bugs.
+- FIXED bugs in API.
+- IMPROVED Load speed.
 
 # v3.0.1 (18 April 2020)
-FIXED 10+ bugs.
-FIXED bugs in API.
+- FIXED 10+ bugs.
+- FIXED bugs in API.
 
 # v3.0 (16 April 2020 [Ultimate])
-ADDED the ability to edit/add/disable post reactions.
-ADDED memories system, user can view his memories on this day.
-ADDED live stream for posts [enable/disable] (third party sites).
-ADDED page analytics, view latest likes per week, month, year, and today.
-ADDED group analytics, view latest joins per week, month, year, and today.
-ADDED blog post notifications, get a notification when someone comments on your blog post.
-ADDED forum notifications, get a notification when someone comments on your forum thread.
-ADDED the ability to require membership on sign up, [enable/disable]
-ADDED sub categories for pages, groups and marketplace.
-ADDED custom fields for pages, groups and marketplace.
-ADDED remaining pro membership days announcement.
-ADDED recurring payments for pro system.
-ADDED the ability for only pro users could upload [enable/disable].
-ADDED the ability for only pro users could make calls [enable/disable]
-ADDED blog posts review/approval system.
-ADDED the ability to request refund for pro package [enable/disable]
-ADDED refund policy page.
-ADDED paystack, razorpay, paysera and cashfree payment methods.
-ADDED page to show shops/businesses nearby.
-ADDED offer system for pages.
-ADDED password complexity system on register page.
-ADDED prevent brutforce on login system, limit failed login per min.
-ADDED the ability for users to be able to post in the pages. [enable/disable]
-ADDED the ability for pages and groups owners could add moderators with certain privileges.
-ADDED google cloud for storage.
-ADDED email mock system. send email for users who didn't login for X time.
-ADDED the ability to add games from other sites, not just miniclip.
-ADDED the ability to get notified when user posts new post.
-ADDED ads within and inside articles.
-ADDED the ability for users to generate invite links.
-ADDED shout box, post anonymously.
-ADDED the ability to get notified when a friend posts a new post.
-FIXED 50+ bugs.
-FIXED bugs in API.
-FIXED Important security issues.
+- ADDED the ability to edit/add/disable post reactions.
+- ADDED memories system, user can view his memories on this day.
+- ADDED live stream for posts [enable/disable] (third party sites).
+- ADDED page analytics, view latest likes per week, month, year, and today.
+- ADDED group analytics, view latest joins per week, month, year, and today.
+- ADDED blog post notifications, get a notification when someone comments on your blog post.
+- ADDED forum notifications, get a notification when someone comments on your forum thread.
+- ADDED the ability to require membership on sign up, [enable/disable]
+- ADDED sub categories for pages, groups and marketplace.
+- ADDED custom fields for pages, groups and marketplace.
+- ADDED remaining pro membership days announcement.
+- ADDED recurring payments for pro system.
+- ADDED the ability for only pro users could upload [enable/disable].
+- ADDED the ability for only pro users could make calls [enable/disable]
+- ADDED blog posts review/approval system.
+- ADDED the ability to request refund for pro package [enable/disable]
+- ADDED refund policy page.
+- ADDED paystack, razorpay, paysera and cashfree payment methods.
+- ADDED page to show shops/businesses nearby.
+- ADDED offer system for pages.
+- ADDED password complexity system on register page.
+- ADDED prevent brutforce on login system, limit failed login per min.
+- ADDED the ability for users to be able to post in the pages. [enable/disable]
+- ADDED the ability for pages and groups owners could add moderators with certain privileges.
+- ADDED google cloud for storage.
+- ADDED email mock system. send email for users who didn't login for X time.
+- ADDED the ability to add games from other sites, not just miniclip.
+- ADDED the ability to get notified when user posts new post.
+- ADDED ads within and inside articles.
+- ADDED the ability for users to generate invite links.
+- ADDED shout box, post anonymously.
+- ADDED the ability to get notified when a friend posts a new post.
+- FIXED 50+ bugs.
+- FIXED bugs in API.
+- FIXED Important security issues.
 
 # v2.5.2 (7 Jan 2020 [Important])
-ADDED click button to comment and reply.
-FIXED bugs.
-FIXED bugs in API.
-FIXED Important security issues.
+- ADDED click button to comment and reply.
+- FIXED bugs.
+- FIXED bugs in API.
+- FIXED Important security issues.
 
 # v2.5.1 (17 Dec 2019 [Important])
-ADDED view joined groups and liked pages from one page.
-ADDED the ability to attache photos in commment replies.
-ADDED missing files from v2.5
-FIXED bugs in API.
+- ADDED view joined groups and liked pages from one page.
+- ADDED the ability to attache photos in commment replies.
+- ADDED missing files from v2.5
+- FIXED bugs in API.
 
 # v2.5 (16 Dec 2019 [Script improvments update])
-ADDED the ability logout from all sessions.
-ADDED the ability to approve or decline a post, enable / disable.
-ADDED new APIs.
-ADDED auto like for pages and auto join for groups.
-UPDATED PHP libaries.
-UPDATED Google login API.
-IMPROVED default theme desgin.
-IMPROVED speed.
+- ADDED the ability logout from all sessions.
+- ADDED the ability to approve or decline a post, enable / disable.
+- ADDED new APIs.
+- ADDED auto like for pages and auto join for groups.
+- UPDATED PHP libaries.
+- UPDATED Google login API.
+- IMPROVED default theme desgin.
+- IMPROVED speed.
 IMPROVED english in some parts.
 FIXED 100+ reported bugs and issues.
 FIXED bugs in API.
@@ -768,27 +768,27 @@ SCRIPT optimization
 BUG fixes
 
 # v1.1 (8th December 2015)
-ADDED Page System.
-ADDED Link Preview.
-ADDED User Typing System & Message "Seen" System.
-ADDED Profile Custom fields (Work, Company, Relationship, Location .. etc).
-ADDED Profile Google Map location.
-ADDED Profile Background image. (user can choose his own background image).
-ADDED Facebook, Vimeo, Dailymotion videos.
-ADDED User Details On Hovering on user link.
-ADDED Censored Words System.
-ADDED 4 New Languages (Dutch, German, Spanish, French).
-ADDED Search Posts System.
-ADDED HTML Support For Announcements.
-CHANGED Welcome Page Style.
-CHANGED Sidebar Style.
-IMPROVED Layout & Styles.
-IMPROVED Layout On Smartphones.
-ADDED More features for Sending emails to all users.
-SCRIPT Optimization.
-FIXED Bugs.
-IMPROVED Security.
+- ADDED Page System.
+- ADDED Link Preview.
+- ADDED User Typing System & Message "Seen" System.
+- ADDED Profile Custom fields (Work, Company, Relationship, Location .. etc).
+- ADDED Profile Google Map location.
+- ADDED Profile Background image. (user can choose his own background image).
+- ADDED Facebook, Vimeo, Dailymotion videos.
+- ADDED User Details On Hovering on user link.
+- ADDED Censored Words System.
+- ADDED 4 New Languages (Dutch, German, Spanish, French).
+- ADDED Search Posts System.
+- ADDED HTML Support For Announcements.
+- CHANGED Welcome Page Style.
+- CHANGED Sidebar Style.
+- IMPROVED Layout & Styles.
+- IMPROVED Layout On Smartphones.
+- ADDED More features for Sending emails to all users.
+- SCRIPT Optimization.
+- FIXED Bugs.
+- IMPROVED Security.
 
 # v1.0 ()
-Initial release.
+- Initial release.
 
