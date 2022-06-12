@@ -53,20 +53,20 @@ Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com
 ## 📷 UI
 
 
-### Privacy focused web analytics
+### Welcome :)
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/forju/blob/main/screenshots/1.PNG" draggable="false" />
 
-### Analytics
+### News Feed
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/forju/blob/main/screenshots/2.PNG" draggable="false" />
 
-### Register now
+### Profile
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/forju/blob/main/screenshots/3.PNG" draggable="false" />
 
-### Dashboard
+### Chats
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/forju/blob/main/screenshots/4.PNG" draggable="false" />
 
-### Add a new website
+### Dark Mode
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/forju/blob/main/screenshots/5.PNG" draggable="false" />
 
-### Add a new website
+### General Settings
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/forju/blob/main/screenshots/6.PNG" draggable="false" />
