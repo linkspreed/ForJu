@@ -45,7 +45,7 @@ ForJu is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/
 
  ```txt
    We will soon be presenting
-   Share's API here on GitHub
+   ForJu's API here on GitHub
    as well :)
 ```
  Register now on ForJu and immerse yourself in a network with no limits to creativity.
