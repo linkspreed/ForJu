@@ -35,7 +35,7 @@ ForJu is a social network where millions of users share their best moments,
 show off their creativity and 
 put a smile on other people's faces.
 
-ForJu is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com/)).
+ForJu is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
