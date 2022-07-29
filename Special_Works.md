@@ -1,3 +1,6 @@
+# 29.07.2022
+  - We fixed a bug with the logo.
+
 # 10.07.2022
  - The two new versions have just been successfully released. The changes can be found in the changelog.
 
