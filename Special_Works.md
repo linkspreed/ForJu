@@ -1,4 +1,8 @@
 # 08.09.2022
+ - The fine-tuning of ForJu is finished.
+ - Enjoy version 4.1.2 of the platform :D
+
+# 08.09.2022
  - 📹 Now you can upload videos to ForJu again and share them with your friends and watch them together...
 
 # 08.09.2022
