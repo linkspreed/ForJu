@@ -1,4 +1,7 @@
 # 08.09.2022
+ - 📹 Now you can upload videos to ForJu again and share them with your friends and watch them together...
+
+# 08.09.2022
  - Now share your location on ForJu and show it on a map.🗺️
 
 # 08.09.2022
