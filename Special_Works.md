@@ -1,3 +1,6 @@
+# 08.09.2022
+ - We are now dealing with the fine tuning of ForJu.
+
 # 07.09.2022
  - Now you can easily share your location with a map on Seedspreed.
  - This feature is coming to Linkspreed and ForJu soon
