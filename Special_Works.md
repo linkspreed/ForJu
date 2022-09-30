@@ -1,3 +1,6 @@
+# 30.09.2022
+ - We are currently working on a new landing page for ForJu.
+
 # 25.09.2022
  - The entire changelog for version 4.1.4 is now available on Github.
 
