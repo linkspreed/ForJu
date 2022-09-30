@@ -1,4 +1,7 @@
 # 30.09.2022
+ - We're still working on the new landing page for ForJu. 🧑‍💻
+
+# 30.09.2022
  - We are currently working on a new landing page for ForJu.
 
 # 25.09.2022
