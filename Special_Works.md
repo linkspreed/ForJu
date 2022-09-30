@@ -1,4 +1,7 @@
 # 30.09.2022
+ - The new landing page design was enrolled on ForJu. Enjoy it :)
+
+# 30.09.2022
  - We're still working on the new landing page for ForJu. 🧑‍💻
 
 # 30.09.2022
