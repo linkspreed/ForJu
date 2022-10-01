@@ -1,4 +1,4 @@
-# 30.09.2022
+# 01.10.2022
  - Registration via Google is coming back.
 
 # 30.09.2022
