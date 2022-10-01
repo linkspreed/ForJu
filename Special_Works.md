@@ -1,4 +1,7 @@
 # 30.09.2022
+ - Registration via Google is coming back.
+
+# 30.09.2022
  - https://user-images.githubusercontent.com/102324985/193337930-7253fa1f-d893-4967-8954-f9a034a60eda.png
  - The new landing page for ForJu.
 
