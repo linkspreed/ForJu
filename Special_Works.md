@@ -1,3 +1,6 @@
+### 20.10.2022 (announcement Forju)
+- We updated the changelog for the new design update on Github.
+
 ### 20.10.2022 (announcement ForJu)
 - The launch of the new design update (v2.6.3) was successfully.
 - Every bug was fixed and the new design is now available.
