@@ -1,4 +1,8 @@
 ### 20.10.2022 (announcement ForJu)
+- The launch of the new design update (v2.6.3) was successfully.
+- Every bug was fixed and the new design is now available.
+
+### 20.10.2022 (announcement ForJu)
 - Let's launch v2.6.3 for the theme/design.
 
 ### 20.10.2022 (announcement ForJu)
