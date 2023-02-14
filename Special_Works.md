@@ -1,3 +1,24 @@
+### 14.02.2023 (announcement ForJu)
+- https://github.com/linkspreed/ForJu/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 14.02.2023 (announcement ForJu)
+- The launch of version 4.1.5 of **ForJu** was successful! 🥳
+- The new update is live now :)
+- https://forju.tk 🔗
+
+### 14.02.2023 (announcement ForJu)
+- We are now starting the launch of v4.1.5.
+
+### 14.02.2023 (announcement ForJu)
+- The servers are now ready for the launch of version 4.1.5 for **ForJu**.
+
+### 14.02.2023 (announcement ForJu)
+- The code is now ready for the launch of version 4.1.5 for **ForJu**.
+
+### 14.02.2023 (announcement ForJu)
+-  **ForJu** gets a big update today - we are going to launch v4.1.5. 😍
+
 ### 20.10.2022 (announcement Forju)
 - We updated the changelog for the new design update on Github.
 
