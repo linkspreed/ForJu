@@ -1,3 +1,6 @@
+### 04.05.2023 (announcement ForJu)
+- 🚀🔜 We're currently working on ForJu, the first platform to receive version 4.2 before #Linkspreed.com! Stay tuned for exciting updates. #ForJu #innovation #technology 🌟
+
 ### 14.02.2023 (announcement ForJu)
 - https://github.com/linkspreed/ForJu/blob/main/changelog.md
 - The entire changelog is now available on Github.
