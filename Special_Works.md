@@ -1,3 +1,6 @@
+### 05.05.2023 (announcement ForJu)
+- 🚀 Big news! 🎉 We're currently working on ForJu v4.2, and the team is testing out a completely fresh new design! 🤩 Stay tuned for more updates and improvements to come. #ForJu #Version42 #newdesign #innovation #testing #exciting
+
 ### 04.05.2023 (announcement ForJu)
 - 🚀🔜 We're currently working on ForJu, the first platform to receive version 4.2 before #Linkspreed.com! Stay tuned for exciting updates. #ForJu #innovation #technology 🌟
 
