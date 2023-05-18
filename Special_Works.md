@@ -1,3 +1,6 @@
+### 18.05.2023 (announcement ForJu)
+- Hey, ForJu fans! 🎉 We've got some awesome news coming your way! 🚀 Our latest version 4.2.1 is about to drop and we've fixed 🛠️ some of the bugs you've reported! How excited are you? 😍 #ForJu #BugFixes #NewRelease
+
 ### 05.05.2023 (announcement ForJu)
 - Hey ForJu fans! 🙌 What do you think of the new v4.2 design? 🔥 We're loving it over here and considering adopting it for Linkspreed.com. 👀 Would you be on board with that change? 😎 #ForJu #Linkspreed #DesignFavorites 💻🔧🎨
 - https://user-images.githubusercontent.com/102324985/236571491-ce39dd1d-dcfa-4c85-b950-bb9643ad2082.png
