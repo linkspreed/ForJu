@@ -1,3 +1,16 @@
+# v4.2.1 (19 May, 2023)
+ - FIXED contact us page on sunshien theme.
+ - FIXED messages list not showing on phone in sunshine.
+ - FIXED turn off / on notifications on sunshine theme.
+ - FIXED notifications bell not showing on sunshine on profile page.
+ - FIXED announcement text not showing on sunshine theme.
+ - FIXED comments cannot be made on blogs.
+ - FIXED users cannot be verified by moderators.
+ - FIXED avatars cannot be changed in manage genders page in admin panel.
+ - FIXED sorting by price doesn't work well on marketplace.
+ - FIXED creating an article in the blog and publishing it, it does not show words with accented letters.(à,è,ì,ò,ù).
+ - FIXED 10+ minor bugs in back and front end.
+
 # v4.2 (5 May, 2023)
  - ADDED new theme, updated ForJu to v2 completely.
  - ADDED AI image generation system, now users can generate images directly and post them.
