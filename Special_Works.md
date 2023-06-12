@@ -1,3 +1,6 @@
+### 13.06.2023 (announcement ForJu)
+- 📢 Hey, #ForJu users! We've just added ForJu to our subdomain system! 🔗 Now, https://forju.tk will redirect you to https://forju.linkspreed.com. 🤖 Don't worry, nothing will change for you, everything will work smoothly as before. 🙌 How do you feel about this integration? #userfeedback
+
 ### 19.05.2023 (announcement ForJu)
 - 🆕🚀 Our team just released Version 4.2.1 for ForJu! 🎉 Check out the Patch Notes on Github and discover how we fixed all the issues reported by our amazing users. Have you updated your ForJu yet?📲 #ForJu #Version4.2.1 #PatchNotes #BugFixes #UserExperience #GetTheUpdateNow
 
