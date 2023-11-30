@@ -1,3 +1,33 @@
+# v4.3.1
+ - FIXED if you post a public post, then make it monetized, the subscribe button will not show.
+ - FIXED images were loading in reels.
+ - FIXED showing youtube videos on watch page which cause some issues.
+ - FIXED shwoing only one video in watch lightbox.
+ - FIXED monetization system caluclation was incorrect.
+ - FIXED showing the same ad multiple times in the story section.
+ - FIXED reels system, not showing more than 10 videos.
+ - FIXED scrolling down on phone does not work on reels page.
+ - FIXED currency issues in monetization system.
+ - FIXED backend config encryption system, the secret keys were not encrypted and could cause data leak.
+ - FIXED many issues in design.
+ - FIXED 10 other minor bugs.
+
+# v4.3 (21 November, 2023)
+ - ADDED monetization system, users are able now to sell their own content like only fans.
+ - ADDED directory system, users can view the site content without the need to login.
+ - ADDED the option to choose the default landing page, NewsFeed, Register, Welcome or Directory.
+ - ADDED reels system, users can upload their own videos as reels.
+ - ADDED watch page, users can view and watch all videos from one page.
+ - ADDED qiwi pament method.
+ - ADDED payfast payment method.
+ - ADDED switch accounts system, user can login to multiple accounts.
+ - ADDED the ability for users to create ads in story system.
+ - ADDED wordpress login system.
+ - FIXED 95+ reported bugs in the system.
+ - IMPROVED code in few files.
+ - UPDATED few libs in PHP.
+ - IMPROVED nodejs chat system speed and code.
+
 # v4.2.1 (19 May, 2023)
  - FIXED contact us page on sunshien theme.
  - FIXED messages list not showing on phone in sunshine.
