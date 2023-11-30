@@ -1,4 +1,4 @@
-# <img align="left" alt="ForJu" width="40px" src="https://forju.tk/themes/wondertag/img/logo.png" draggable="false" /> ForJu ([Click to try 🚀](https://forju.tk/)) (v4.2.1)
+# <img align="left" alt="ForJu" width="40px" src="https://forju.tk/themes/wondertag/img/logo.png" draggable="false" /> ForJu ([Click to try 🚀](https://forju.tk/)) (v4.3.1)
 
 ForJu 🚀 - set no further limits 🌱to your creativity 👼 and put a little smile on other people's faces😂
 
