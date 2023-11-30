@@ -1,7 +1,6 @@
-# <img align="left" alt="ForJu" width="40px" src="https://forju.tk/themes/wondertag/img/logo.png" draggable="false" /> ForJu ([Click to try 🚀](https://forju.tk/)) (v4.3.1)
+# <img align="left" alt="ForJu" width="40px" src="https://github.com/linkspreed/ForJu/assets/102324985/b9421439-6952-46b4-ae6c-d1e1797ed497" draggable="false" /> ForJu ([Click to try 🚀](https://forju.tk/)) (v4.3.1)
 
 ForJu 🚀 - set no further limits 🌱to your creativity 👼 and put a little smile on other people's faces😂
-
 
 ## **[Changelog 💙](https://github.com/linkspreed/forju/blob/main/changelog.md)** **Check out the full ForJu changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/forju/blob/main/Special_Works.md)** **Take a look at what changes we are doing to ForJu besides development**
