@@ -1,3 +1,27 @@
+### 09.12.2023 (announcement Forju)
+- 📣 Great news! 🎉 We're thrilled to announce the release of version v4.3.2 for ForJu! 🚀 This update brings exciting enhancements and improvements to our platform. 🌟💪 Have you tried it yet? Let us know your thoughts! 😊✨ #ForJu #UpdateRelease #NewFeatures #FeedbackWelcome
+
+### 09.12.2023 (announcement ForJu)
+- https://github.com/linkspreed/ForJu/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.12.2023 (announcement ForJu)
+- The launch of version 4.3.2 of **ForJu** was successful! 🥳
+- The new update is live now :)
+- https://forju.linkspreed.com 🔗
+
+### 09.12.2023 (announcement ForJu)
+- We are now starting the launch of v4.3.2.
+
+### 09.12.2023 (announcement ForJu)
+- The servers are now ready for the launch of version 4.3.2 for **ForJu**.
+
+### 09.12.2023 (announcement ForJu)
+- The code is now ready for the launch of version 4.3.2 for **ForJu**.
+
+### 09.12.2023 (announcement ForJu)
+-  **ForJu** gets a big update today - we are going to launch v4.3.2. 😍
+
 ### 30.11.2023 (announcement ForJu)
 - 📢 Exciting news! 🎉 We have just released version 4.3.1 of Forju! 🚀📲 This update is definitely a reason to celebrate! 🎉💪 Check out all the latest features and changes on our GitHub page. 🔍🔧 #Forju #NewRelease #Update #GitHub
 
