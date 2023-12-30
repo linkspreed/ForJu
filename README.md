@@ -1,4 +1,4 @@
-# <img align="left" alt="ForJu" width="40px" src="https://github.com/linkspreed/ForJu/assets/102324985/b9421439-6952-46b4-ae6c-d1e1797ed497" draggable="false" /> ForJu ([Click to try 🚀](https://forju.tk/)) (v4.3.2)
+# <img align="left" alt="ForJu" width="40px" src="https://github.com/linkspreed/ForJu/assets/102324985/b9421439-6952-46b4-ae6c-d1e1797ed497" draggable="false" /> ForJu ([Click to try 🚀](https://forju.tk/)) (v4.3.3)
 
 ForJu 🚀 - set no further limits 🌱to your creativity 👼 and put a little smile on other people's faces😂
 
